@@ -39,7 +39,7 @@ process.stdin.on("end", function () {
 
 
 
-
+-----------2
 
 function isSorted(arr) {
     for (let i = 1; i < arr.length; i++) {
